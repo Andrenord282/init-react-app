@@ -56,6 +56,14 @@ const InitApp = () => {
                             </ul>
                         </div>
                     </div>
+                    <div className={classes.author}>
+                        <a href="https://github.com/Andrenord282" target="_blank">
+                            GitHub
+                        </a>
+                        <a href="https://t.me/stohelitskii" target="_blank">
+                            Telegram
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
